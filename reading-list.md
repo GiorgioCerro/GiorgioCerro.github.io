@@ -4,7 +4,6 @@ subtitle: a list of books I read
 layout: "page"
 icon: fa-book
 order: 3
-hide: True
 ---
 
 I love books! Here are some I'm reading now:
